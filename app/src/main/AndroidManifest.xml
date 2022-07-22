@@ -14,29 +14,24 @@
         android:theme="@style/Theme.Lawapp"
         tools:targetApi="31">
         <activity
-            android:name=".CopyrightingMainActivity"
+            android:name=".WebActivity"
             android:exported="false" />
         <activity
-            android:name=".LiteratureMainActivity"
+            android:name=".HelpMainActivity"
             android:exported="false" />
         <activity
-            android:name=".EditorialMainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".UserRegistryActivity"
-            android:exported="false" />
-        <activity
-            android:name=".LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".LawappMainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Lawapp.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".UserRegistryActivity"
+            android:exported="false" />
     </application>
 
 </manifest>

@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class CopyrightingMainActivity extends AppCompatActivity {
+public class HelpMainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_copyrighting_main);
+        setContentView(R.layout.activity_help_main);
     }
 }

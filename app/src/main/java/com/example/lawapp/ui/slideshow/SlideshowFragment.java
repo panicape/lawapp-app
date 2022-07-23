@@ -12,6 +12,12 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.lawapp.databinding.FragmentSlideshowBinding;
 
+
+/**
+ *
+ * @author panicape
+ * @ver 1.01 July 2022
+ */
 public class SlideshowFragment extends Fragment {
 
     private FragmentSlideshowBinding binding;

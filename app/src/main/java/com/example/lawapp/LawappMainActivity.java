@@ -16,6 +16,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.lawapp.databinding.ActivityLawappMainBinding;
 
+/**
+ *
+ * @author panicape
+ * @ver 1.01 July 2022
+ */
 public class LawappMainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;

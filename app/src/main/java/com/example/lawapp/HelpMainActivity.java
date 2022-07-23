@@ -4,6 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ *
+ * @author panicape
+ * @ver 1.01 July 2022
+ */
 public class HelpMainActivity extends AppCompatActivity {
 
     @Override

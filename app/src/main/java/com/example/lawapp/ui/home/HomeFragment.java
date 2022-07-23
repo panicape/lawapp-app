@@ -12,6 +12,12 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.lawapp.databinding.FragmentHomeBinding;
 
+
+/**
+ *
+ * @author panicape
+ * @ver 1.01 July 2022
+ */
 public class HomeFragment extends Fragment {
 
     private FragmentHomeBinding binding;

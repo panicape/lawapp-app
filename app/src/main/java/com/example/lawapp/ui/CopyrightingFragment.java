@@ -7,60 +7,53 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import com.example.lawapp.R;
+import com.example.lawapp.databinding.FragmentCopyrightingBinding;
+import com.example.lawapp.databinding.FragmentSlideshowBinding;
+
+import java.util.ArrayList;
+import java.util.List;
+
 
 /**
- * A simple {@link Fragment} subclass.
- * Use the {@link CopyrightingFragment#newInstance} factory method to
- * create an instance of this fragment.
+ *
+ * @author panicape
+ * @version 1.01 July 2022
  */
 public class CopyrightingFragment extends Fragment {
 
-    // TODO: Rename parameter arguments, choose names that match
-    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-    private static final String ARG_PARAM1 = "param1";
-    private static final String ARG_PARAM2 = "param2";
+    private FragmentCopyrightingBinding binding;
 
-    // TODO: Rename and change types of parameters
-    private String mParam1;
-    private String mParam2;
+    private List<String> data;
+    private ArrayAdapter<String> listAdapter;
 
-    public CopyrightingFragment() {
-        // Required empty public constructor
-    }
+    private ListView copyrightLW;
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
-     * @return A new instance of fragment CopyrightingFragment.
-     */
-    // TODO: Rename and change types and number of parameters
-    public static CopyrightingFragment newInstance(String param1, String param2) {
-        CopyrightingFragment fragment = new CopyrightingFragment();
-        Bundle args = new Bundle();
-        args.putString(ARG_PARAM1, param1);
-        args.putString(ARG_PARAM2, param2);
-        fragment.setArguments(args);
-        return fragment;
-    }
 
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        if (getArguments() != null) {
-            mParam1 = getArguments().getString(ARG_PARAM1);
-            mParam2 = getArguments().getString(ARG_PARAM2);
-        }
-    }
+    // Methods
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_copyrighting, container, false);
+        data = new ArrayList<>();
+
+        binding = FragmentCopyrightingBinding.inflate(inflater, container, false);
+        View root = binding.getRoot();
+
+        listAdapter = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, data);
+        copyrightLW = binding.copyrightingLW;
+        copyrightLW.setAdapter(listAdapter);
+
+        return root;
     }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        binding = null;
+    }
+
 }

@@ -17,4 +17,14 @@
         android:name="com.example.lawapp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_copyrighting"
+        android:name="com.example.lawapp.ui.CopyrightingFragment"
+        android:label="fragment_copyrighting"
+        tools:layout="@layout/fragment_copyrighting" />
+    <fragment
+        android:id="@+id/nav_editorial"
+        android:name="com.example.lawapp.ui.EditorialFragment"
+        android:label="fragment_editorial"
+        tools:layout="@layout/fragment_editorial" />
 </navigation>

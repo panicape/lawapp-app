@@ -14,7 +14,9 @@ import android.widget.ListView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
+import androidx.navigation.Navigation;
 
+import com.example.lawapp.R;
 import com.example.lawapp.databinding.FragmentHomeBinding;
 
 import java.util.ArrayList;
@@ -50,21 +52,21 @@ public class HomeFragment extends Fragment {
         editorialBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Navigation.findNavController(view).navigate(R.id.nav_editorial);
             }
         });
 
         literatureBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Navigation.findNavController(view).navigate(R.id.nav_slideshow);
             }
         });
 
         copyrightingBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Navigation.findNavController(view).navigate(R.id.nav_copyrighting);
             }
         });
 

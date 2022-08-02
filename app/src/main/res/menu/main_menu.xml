@@ -8,6 +8,8 @@
     <item
         android:id="@+id/logoffItem"
         android:title="Cerrar Sesión" />
+    <item android:id="@+id/mainWebItem"
+        android:title="Web" />
     <item android:id="@+id/exitItem"
         android:title="Salir" />
 </menu>

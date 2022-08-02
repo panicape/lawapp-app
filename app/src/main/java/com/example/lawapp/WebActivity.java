@@ -3,6 +3,7 @@ package com.example.lawapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.webkit.WebView;
 
 /**
  *
@@ -11,11 +12,19 @@ import android.os.Bundle;
  */
 public class WebActivity extends AppCompatActivity {
 
+    private WebView webV;
+
+
     // Methods
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web);
+
+        webV = findViewById(R.id.webV);
+
+        webV.loadUrl("https://google.com");
     }
+
 }

@@ -11,9 +11,12 @@ import android.os.Bundle;
  */
 public class HelpMainActivity extends AppCompatActivity {
 
+    // Methods
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_help_main);
     }
+
 }

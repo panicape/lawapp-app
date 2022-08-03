@@ -19,12 +19,12 @@
         tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/nav_copyrighting"
-        android:name="com.example.lawapp.ui.CopyrightingFragment"
+        android:name="com.example.lawapp.ui.copyright.CopyrightingFragment"
         android:label="fragment_copyrighting"
         tools:layout="@layout/fragment_copyrighting" />
     <fragment
         android:id="@+id/nav_editorial"
-        android:name="com.example.lawapp.ui.EditorialFragment"
+        android:name="com.example.lawapp.ui.editorial.EditorialFragment"
         android:label="fragment_editorial"
         tools:layout="@layout/fragment_editorial" />
 </navigation>

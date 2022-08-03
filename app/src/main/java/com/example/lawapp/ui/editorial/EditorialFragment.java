@@ -1,4 +1,4 @@
-package com.example.lawapp.ui;
+package com.example.lawapp.ui.editorial;
 
 import android.os.Bundle;
 
@@ -10,9 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.example.lawapp.R;
 import com.example.lawapp.databinding.FragmentEditorialBinding;
-import com.example.lawapp.databinding.FragmentSlideshowBinding;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,29 +1,13 @@
-package com.example.lawapp.ui.slideshow;
+package com.example.lawapp.ui.copyright;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import java.util.List;
 
-
-/**
- *
- * @author panicape
- * @ver 1.01 July 2022
- */
-public class SlideshowViewModel extends ViewModel {
+public class CopyrightViewModel extends ViewModel {
 
     private MutableLiveData<List<String>> dataList;
-
-
-    //Constructor
-
-    public SlideshowViewModel() {
-    }
-
-
-
-    // Getters & setters
 
     public MutableLiveData<List<String>> getDataList() {
         return dataList;
@@ -32,4 +16,5 @@ public class SlideshowViewModel extends ViewModel {
     public void setDataList(List<String> dataList) {
         this.dataList = new MutableLiveData<>(dataList);
     }
+
 }

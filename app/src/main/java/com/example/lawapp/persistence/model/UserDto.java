@@ -1,5 +1,11 @@
 package com.example.lawapp.persistence.model;
 
+
+/**
+ *
+ * @author panicape
+ * @version 1.01 July 2022
+ */
 public class UserDto {
 
 //    private String docId;

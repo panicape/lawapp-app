@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">355782973146-iasa23egcadtc84vpmlhdhmvmrhb35l0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">355782973146</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8aARHAVzdf3yKm_cfbQ6bk_gDlY8bq14</string>
+    <string name="google_app_id" translatable="false">1:355782973146:android:2bf7f45b2781af7c37b7e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8aARHAVzdf3yKm_cfbQ6bk_gDlY8bq14</string>
+    <string name="google_storage_bucket" translatable="false">lawapp-2ed0c.appspot.com</string>
+    <string name="project_id" translatable="false">lawapp-2ed0c</string>
+</resources>

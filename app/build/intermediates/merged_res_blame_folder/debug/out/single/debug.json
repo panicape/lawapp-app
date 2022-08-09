@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_activity_lawapp_main.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_fragment_editorial.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_editorial.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable_side_nav_bar.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xxhdpi_books.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xxhdpi/books.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-anydpi_ic_stat_name.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-anydpi/ic_stat_name.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable_ic_menu_gallery.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-hdpi_ic_stat_name.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-hdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_app_bar_lawapp_main.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/app_bar_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_content_lawapp_main.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/content_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/xml_backup_rules.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_activity_web.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_web.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable_ic_menu_camera.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_activity_help_main.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_help_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xxhdpi_follow.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xxhdpi/follow.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-mdpi_ic_stat_name.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-mdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xxhdpi_message.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xxhdpi/message.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xxhdpi_logo.jpg.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xxhdpi/logo.jpg"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_fragment_copyrighting.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_copyrighting.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_activity_user_registry.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_user_registry.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xxhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_nav_header_lawapp_main.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/nav_header_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/menu_activity_main_drawer.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.lawapp-merged_res-43:/menu_main_menu.xml.flat",
+        "source": "com.example.lawapp-main-45:/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_fragment_slideshow.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.lawapp-merged_res-43:/layout_fragment_login.xml.flat",
+        "source": "com.example.lawapp-main-45:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-xxhdpi_profile1.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-xxhdpi/profile1.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/menu_main_menu.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/menu_lawapp_main.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/menu/lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/menu_literature.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/menu/literature.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/layout_fragment_home.xml.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

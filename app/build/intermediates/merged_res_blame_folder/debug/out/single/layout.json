@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/activity_help_main.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_help_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/nav_header_lawapp_main.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/nav_header_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/fragment_editorial.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_editorial.xml"
+    },
+    {
+        "merged": "com.example.lawapp-mergeDebugResources-42:/layout/fragment_login.xml",
+        "source": "com.example.lawapp-main-45:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/activity_user_registry.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_user_registry.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/fragment_slideshow.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/app_bar_lawapp_main.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/app_bar_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/fragment_copyrighting.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/fragment_copyrighting.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/activity_web.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_web.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/activity_lawapp_main.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/activity_lawapp_main.xml"
+    },
+    {
+        "merged": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-mergeDebugResources-42:/layout/content_lawapp_main.xml",
+        "source": "/home/panicape/.sdkman/candidates/java/8.0.302-open/daemon/7.3.3/com.example.lawapp-main-45:/layout/content_lawapp_main.xml"
+    }
+]

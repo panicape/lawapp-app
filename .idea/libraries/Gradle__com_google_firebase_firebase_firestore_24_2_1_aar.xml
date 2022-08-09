@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-firestore:24.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.sdkman/candidates/java/8.0.302-open/caches/transforms-3/ee30f1df5f35ac3fe56ac0f1a440d0ea/transformed/firebase-firestore-24.2.1/res" />
+      <root url="file://$USER_HOME$/.sdkman/candidates/java/8.0.302-open/caches/transforms-3/bc1a7b471a334afed7ff4e377114ad16/transformed/firebase-firestore-24.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.302-open/caches/transforms-3/bc1a7b471a334afed7ff4e377114ad16/transformed/firebase-firestore-24.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.sdkman/candidates/java/8.0.302-open/caches/transforms-3/bc1a7b471a334afed7ff4e377114ad16/transformed/firebase-firestore-24.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.302-open/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/24.2.1/3463a0543a29ab0af58f886496a3d0333139666a/firebase-firestore-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/java/8.0.302-open/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/24.2.1/5b37bce5c3b7907d7c8b833378819dc654b82c4a/firebase-firestore-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

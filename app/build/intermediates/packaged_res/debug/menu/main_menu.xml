@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_login"
+        android:title="Iniciar Sesión" />
+    <item
+        android:id="@+id/action_logoff"
+        android:title="Cerrar Sesión" />
+    <item android:id="@+id/action_web"
+        android:title="Web" />
+    <item android:id="@+id/action_exit"
+        android:title="Salir" />
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_copyrighting_main.xml" value="0.12916666666666668" />
+        <entry key="app/src/main/res/layout/activity_help_main.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/activity_lawapp_main.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_literature.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="app/src/main/res/layout/activity_user_registry.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/app_bar_lawapp_main.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/app_bar_literature.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/layout/content_lawapp_main.xml" value="0.2630208333333333" />
+        <entry key="app/src/main/res/layout/content_literature.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/fragment_copyrighting.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_editorial.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/nav_header_literature.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/menu/lawapp_main.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

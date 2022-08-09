@@ -1,12 +1,15 @@
 package com.example.lawapp;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.Menu;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
+import androidx.annotation.NonNull;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
@@ -15,6 +18,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.lawapp.databinding.ActivityLawappMainBinding;
+import com.google.firebase.auth.FirebaseAuth;
 
 /**
  *
@@ -25,6 +29,7 @@ public class LawappMainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityLawappMainBinding binding;
+    NavController navController;
 
 
     // Methods
@@ -52,7 +57,7 @@ public class LawappMainActivity extends AppCompatActivity {
                 R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow)
                 .setOpenableLayout(drawer)
                 .build();
-        NavController navController = Navigation.findNavController(this,
+        navController = Navigation.findNavController(this,
                 R.id.nav_host_fragment_content_lawapp_main);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
@@ -71,5 +76,28 @@ public class LawappMainActivity extends AppCompatActivity {
                 R.id.nav_host_fragment_content_lawapp_main);
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp();
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_login:
+                break;
+            case R.id.action_web:
+                Intent webIntent = new Intent(this, WebActivity.class);
+                startActivity(webIntent);
+                break;
+            case R.id.action_logoff:
+                FirebaseAuth.getInstance().signOut();
+                navController.navigate(R.id.nav_home);
+                break;
+            case R.id.action_exit:
+                FirebaseAuth.getInstance().signOut();
+                System.exit(0);
+                break;
+        }
+
+
+        return super.onOptionsItemSelected(item);
     }
 }
